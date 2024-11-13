@@ -1,0 +1,2 @@
+par.rar filter=lfs diff=lfs merge=lfs -text
+rtl.rar filter=lfs diff=lfs merge=lfs -text
